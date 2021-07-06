@@ -1,0 +1,4 @@
+/build/
+/buildSrc/build/
+/.gradle/
+/buildSrc/.gradle/
